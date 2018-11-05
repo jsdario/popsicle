@@ -102,8 +102,8 @@ export const NavbarIcon = ({style, source, ...props}) => (
     <Image
       source={source}
       style={{
-        height: theme.NAVBAR_HEIGHT * 0.5,
-        width: theme.NAVBAR_HEIGHT * 0.5,
+        height: theme.NAVBAR_HEIGHT * 0.4,
+        width: theme.NAVBAR_HEIGHT * 0.4,
       }}
     />
   </TouchableOpacity>
